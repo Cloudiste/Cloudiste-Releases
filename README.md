@@ -59,7 +59,7 @@ SHA-256 : 0A:92:D9:A3:0B:FB:E1:0A:E8:4E:D6:8A:A7:B3:18:CB:9A:62:5C:48:C4:27:77:2
 
 ## Confidentialité et contact
 
-- [Politique de confidentialité](https://cloudiste-confidentialite.rodolphecpu.chatgpt.site)
+- [Politique de confidentialité](https://cloudiste.github.io/Cloudiste-Releases/privacy/)
 - Initiative et vibe coding : Rodolphe CHOUTEAU, chaîne **@Cloudgamingfrance**
 - Soutenir le projet : [Ko-fi](https://ko-fi.com/rodolphecgf)
 

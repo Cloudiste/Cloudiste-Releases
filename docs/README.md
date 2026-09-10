@@ -8,6 +8,7 @@ Cloudiste rassemble les services de cloud gaming, les applications Android et le
 2. [Configurer et utiliser l’accueil](GUIDE-UTILISATEUR.md)
 3. [Consulter les commandes tactiles et manette](COMMANDES.md)
 4. [Sauvegarder ou diagnostiquer un problème](SAUVEGARDE-ET-DIAGNOSTIC.md)
+5. [Lire la politique de confidentialité](https://cloudiste.github.io/Cloudiste-Releases/privacy/)
 
 ## Principales fonctions
 
@@ -23,4 +24,3 @@ Cloudiste rassemble les services de cloud gaming, les applications Android et le
 - réglages d’affichage pour smartphone, tablette, télévision et écran externe.
 
 Le [journal des versions](../CHANGELOG.md) donne une vue synthétique de l’évolution du projet. Les notes complètes de chaque étape sont conservées dans le dossier [`historique`](historique/).
-
