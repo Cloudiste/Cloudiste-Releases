@@ -46,7 +46,7 @@ Obtainium vérifiera les nouvelles Releases GitHub. Android pourra encore demand
 Chaque Release contient un fichier `.sha256`. Pour vérifier un APK sur macOS ou Linux :
 
 ```bash
-shasum -a 256 Cloudiste-0.46.2-release.apk
+shasum -a 256 Cloudiste-0.46.3-release.apk
 ```
 
 L’empreinte obtenue doit être identique à celle du fichier `.sha256` associé.
