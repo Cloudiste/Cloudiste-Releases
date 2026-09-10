@@ -6,9 +6,19 @@
 
 Cloudiste est un front-end Android pensé pour le cloud gaming, les jeux Android et les émulateurs. Cette page distribue les versions bêta officielles avant leur disponibilité sur Google Play.
 
+## Documentation
+
+- [Découvrir Cloudiste](docs/README.md)
+- [Installation et mises à jour](docs/INSTALLATION.md)
+- [Guide utilisateur](docs/GUIDE-UTILISATEUR.md)
+- [Commandes tactiles et manette](docs/COMMANDES.md)
+- [Sauvegarde, diagnostic et dépannage](docs/SAUVEGARDE-ET-DIAGNOSTIC.md)
+- [Historique des mises à jour](CHANGELOG.md)
+- [Participer à la bêta](CONTRIBUTING.md)
+
 ## Installer Cloudiste
 
-1. Ouvrez la page [Releases](../../releases/latest).
+1. Ouvrez la page [Releases](https://github.com/Cloudiste/Cloudiste-Releases/releases/latest).
 2. Téléchargez le fichier nommé `Cloudiste-…-release.apk`.
 3. Autorisez votre navigateur à installer cette application si Android le demande.
 4. Ouvrez l’APK et suivez les indications d’Android.
@@ -55,3 +65,6 @@ SHA-256 : 0A:92:D9:A3:0B:FB:E1:0A:E8:4E:D6:8A:A7:B3:18:CB:9A:62:5C:48:C4:27:77:2
 
 Les retours de la bêta sont les bienvenus dans l’espace Discord consacré à Cloudiste.
 
+## État du projet
+
+Cloudiste est actuellement distribué en bêta. La version la plus récente est indiquée dans la section [Releases](https://github.com/Cloudiste/Cloudiste-Releases/releases/latest). L’application n’est pas encore proposée publiquement sur Google Play.
