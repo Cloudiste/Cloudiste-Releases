@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.48.0 — Centre de mises à jour](docs/historique/CLOUDISTE-0.48.0.md)
 - [Cloudiste 0.47.0 — Logos personnalisables, OpenNOW et Better xCloud](docs/historique/CLOUDISTE-0.47.0.md)
 - [Cloudiste 0.46.3 — Cadrage indépendant des tuiles](docs/historique/CLOUDISTE-0.46.3.md)
 - [Cloudiste 0.46.2 — Correctifs d’alignement](docs/historique/CLOUDISTE-0.46.2.md)
