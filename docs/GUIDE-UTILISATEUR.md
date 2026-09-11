@@ -54,7 +54,18 @@ Dans **Réglages > Apparence**, tu peux choisir le thème, le fond général, la
 
 Le fond général peut rester identique pour tous les services. Le mode fond selon le service change l’arrière-plan avec la sélection. Les médias personnels restent stockés localement et sont inclus dans les sauvegardes.
 
+## Partager un thème
+
+Ouvre **Réglages > Apparence > Packs de thèmes** pour exporter l’apparence dans un fichier `.cloudiste-theme`. Ce fichier regroupe les choix visuels et les médias des services du catalogue Cloudiste.
+
+Lors de l’import, un aperçu indique la version d’origine, le nombre de services personnalisés et le nombre d’éléments ordonnés. Tu peux appliquer séparément :
+
+- l’apparence générale ;
+- les visuels des services ;
+- l’ordre des tuiles.
+
+Un pack de thème ne contient pas tes applications installées ou ajoutées manuellement, tes dossiers, ton dock, ta langue ni tes réglages de lancement. Utilise toujours la sauvegarde Cloudiste pour transférer ta configuration personnelle complète.
+
 ## Écran et accessibilité
 
 Les tailles Compacte, Normale et Grande adaptent les commandes et les tuiles. Les marges de sécurité TV éloignent les éléments interactifs des bords lorsqu’un écran externe est détecté.
-
