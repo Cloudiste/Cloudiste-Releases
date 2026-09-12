@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.51.0 — Packs de thèmes finalisés](docs/historique/CLOUDISTE-0.51.0.md)
 - [Cloudiste 0.50.0 — Packs de thèmes partageables](docs/historique/CLOUDISTE-0.50.0.md)
 - [Cloudiste 0.49.0 — Accessibilité avancée](docs/historique/CLOUDISTE-0.49.0.md)
 - [Cloudiste 0.48.0 — Centre de mises à jour](docs/historique/CLOUDISTE-0.48.0.md)

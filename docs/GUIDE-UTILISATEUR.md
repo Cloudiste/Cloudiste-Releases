@@ -56,13 +56,15 @@ Le fond général peut rester identique pour tous les services. Le mode fond sel
 
 ## Partager un thème
 
-Ouvre **Réglages > Apparence > Packs de thèmes** pour exporter l’apparence dans un fichier `.cloudiste-theme`. Ce fichier regroupe les choix visuels et les médias des services du catalogue Cloudiste.
+Ouvre **Réglages > Apparence > Packs de thèmes** pour exporter l’apparence dans un fichier `.cloudiste-theme`. Tu peux lui donner un nom, indiquer son créateur et ajouter une description, puis enregistrer le fichier ou le partager directement avec le menu Android. Le pack regroupe les choix visuels et les médias des services du catalogue Cloudiste.
 
-Lors de l’import, un aperçu indique la version d’origine, le nombre de services personnalisés et le nombre d’éléments ordonnés. Tu peux appliquer séparément :
+Lors de l’import, un aperçu montre le nom, le créateur, la description, la version d’origine, le nombre de visuels et un aperçu du premier média. Cloudiste signale également les services inconnus, qui seront ignorés, ainsi que les médias absents ou invalides. Tu peux appliquer séparément :
 
 - l’apparence générale ;
 - les visuels des services ;
 - l’ordre des tuiles.
+
+Après l’application d’un pack, **Restaurer le thème précédent** permet d’annuler immédiatement le changement. Cette possibilité reste disponible tant que tu ne quittes pas la page des packs.
 
 Un pack de thème ne contient pas tes applications installées ou ajoutées manuellement, tes dossiers, ton dock, ta langue ni tes réglages de lancement. Utilise toujours la sauvegarde Cloudiste pour transférer ta configuration personnelle complète.
 
