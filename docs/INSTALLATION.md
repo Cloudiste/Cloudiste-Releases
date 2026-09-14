@@ -9,6 +9,17 @@
 
 Une mise à jour installée par-dessus Cloudiste conserve normalement les réglages lorsque l’identifiant de l’application et sa signature correspondent. Il est néanmoins conseillé d’exporter régulièrement une sauvegarde.
 
+## Utiliser Cloudiste comme launcher Android
+
+Cette fonction est facultative et ne s’active jamais automatiquement :
+
+1. ouvre **Réglages › Launcher Android** dans Cloudiste ;
+2. choisis **Choisir Cloudiste comme launcher** ;
+3. confirme le choix dans l’écran officiel d’Android ;
+4. teste le bouton Accueil avant de redémarrer l’appareil.
+
+Pour revenir au launcher constructeur, ouvre **Réglages › Launcher Android › Gérer le launcher par défaut**. Selon le fabricant, le même choix se trouve dans **Applications par défaut › Application d’accueil** dans les réglages Android.
+
 ## Mises à jour avec Obtainium
 
 1. Installe [Obtainium](https://github.com/ImranR98/Obtainium/releases).

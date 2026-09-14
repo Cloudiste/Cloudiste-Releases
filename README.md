@@ -4,7 +4,7 @@
   <img src="assets/cloudiste.png" width="180" alt="Logo de Cloudiste">
 </p>
 
-Cloudiste est un front-end Android pensé pour le cloud gaming, les jeux Android et les émulateurs. Cette page distribue les versions bêta officielles avant leur disponibilité sur Google Play.
+Cloudiste est un front-end Android pensé pour le cloud gaming, les jeux Android et les émulateurs. Il peut être utilisé comme une application classique ou comme launcher Android facultatif. Cette page distribue les versions bêta officielles avant leur disponibilité sur Google Play.
 
 ## Documentation
 
@@ -46,7 +46,7 @@ Obtainium vérifiera les nouvelles Releases GitHub. Android pourra encore demand
 Chaque Release contient un fichier `.sha256`. Pour vérifier un APK sur macOS ou Linux :
 
 ```bash
-shasum -a 256 Cloudiste-0.52.0-release.apk
+shasum -a 256 Cloudiste-0.53.0-release.apk
 ```
 
 L’empreinte obtenue doit être identique à celle du fichier `.sha256` associé.

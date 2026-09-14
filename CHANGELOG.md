@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.53.0 — Launcher Android facultatif](docs/historique/CLOUDISTE-0.53.0.md)
 - [Cloudiste 0.52.0 — Stabilisation et conformité](docs/historique/CLOUDISTE-0.52.0.md)
 - [Cloudiste 0.51.1 — Bandeau d’accueil compact](docs/historique/CLOUDISTE-0.51.1.md)
 - [Cloudiste 0.51.0 — Packs de thèmes finalisés](docs/historique/CLOUDISTE-0.51.0.md)
