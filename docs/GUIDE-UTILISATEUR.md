@@ -36,6 +36,19 @@ La suppression d’un raccourci ne désinstalle jamais l’application Android.
 
 La rubrique **Dossiers** permet de créer un dossier Jeux Android ou Émulateurs, puis d’y sélectionner les applications voulues. Un appui long ou **Y** sur le dossier ouvre sa personnalisation et sa composition. Supprimer un dossier ne désinstalle pas son contenu.
 
+## Organiser plusieurs tuiles
+
+Ouvre **Réglages > Accueil > Gérer l’accueil en groupe** pour sélectionner plusieurs tuiles. Tu peux ensuite :
+
+- les affecter ensemble à une page d’accueil ;
+- déplacer leurs applications Android vers un dossier ;
+- copier la personnalisation visuelle de la première tuile personnalisée vers les autres ;
+- trier l’accueil par nom, type ou utilisation récente ;
+- choisir des tuiles petites, standard ou grandes ;
+- verrouiller l’organisation afin d’éviter un déplacement accidentel.
+
+Les pages **Cloud**, **Android**, **Émulation** et **Multimédia** sont facultatives. Tant qu’aucune page n’est activée, l’accueil unique reste inchangé. Lorsqu’elles sont actives, touche leur nom ou utilise LB et RB pour passer de l’une à l’autre.
+
 ## Personnaliser une tuile
 
 Maintiens une tuile au doigt ou appuie sur **Y**. Le menu latéral propose, selon l’élément :

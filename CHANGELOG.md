@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.57.0 — Gestion avancée de l’accueil](docs/historique/CLOUDISTE-0.57.0.md)
 - [Cloudiste 0.56.1 — Musique d’ambiance](docs/historique/CLOUDISTE-0.56.1.md)
 - [Cloudiste 0.55.1 — Sons d’interface](docs/historique/CLOUDISTE-0.55.1.md)
 - [Cloudiste 0.54.0 — Animations de l’accueil](docs/historique/CLOUDISTE-0.54.0.md)
