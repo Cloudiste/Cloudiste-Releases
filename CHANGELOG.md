@@ -2,7 +2,8 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
-- [Cloudiste 0.57.0 — Gestion avancée de l’accueil](docs/historique/CLOUDISTE-0.57.0.md)
+- [Cloudiste 0.57.3 — Retour à l’accueil de la 0.56.1](docs/historique/CLOUDISTE-0.57.3.md)
+- [Cloudiste 0.57.0 — Gestion avancée de l’accueil (retirée)](docs/historique/CLOUDISTE-0.57.0.md)
 - [Cloudiste 0.56.1 — Musique d’ambiance](docs/historique/CLOUDISTE-0.56.1.md)
 - [Cloudiste 0.55.1 — Sons d’interface](docs/historique/CLOUDISTE-0.55.1.md)
 - [Cloudiste 0.54.0 — Animations de l’accueil](docs/historique/CLOUDISTE-0.54.0.md)
@@ -77,3 +78,4 @@ Cette page retrace les versions de Cloudiste depuis la première base fonctionne
 - La fonction expérimentale de launcher Android introduite en 0.27.0 a été retirée en 0.29.0.
 - La distribution GitHub avec Obtainium commence avec la version 0.46.2.
 - L’absence d’un numéro dans la suite correspond à une étape volontairement non publiée.
+- La 0.57.3 retire la gestion avancée de l’accueil de la 0.57 et reprend l’interface et les fonctions de la 0.56.1. Son code Android 82 permet une mise à jour directe depuis les versions 0.57 déjà installées.
