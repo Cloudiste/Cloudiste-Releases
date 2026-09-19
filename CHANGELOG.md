@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.58.0 — Deux ambiances musicales](docs/historique/CLOUDISTE-0.58.0.md)
 - [Cloudiste 0.57.5 — Gestes indépendants du logo et du dock](docs/historique/CLOUDISTE-0.57.5.md)
 - [Cloudiste 0.57.3 — Retour à l’accueil de la 0.56.1](docs/historique/CLOUDISTE-0.57.3.md)
 - [Cloudiste 0.57.0 — Gestion avancée de l’accueil (retirée)](docs/historique/CLOUDISTE-0.57.0.md)
