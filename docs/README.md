@@ -15,6 +15,7 @@ Cloudiste rassemble les services de cloud gaming, les applications Android et le
 - trois affichages : tuiles détaillées, tuiles compactes et plein écran ;
 - lancement d’applications Android et ouverture des services web dans le navigateur externe ;
 - dossiers pour les jeux Android et les émulateurs ;
+- recherche de disponibilité des jeux avec jaquettes et liens vers les boutiques ;
 - fonds personnalisés avec images, GIF et vidéos ;
 - thèmes Sombre, OLED et Clair ;
 - français, anglais et espagnol ;

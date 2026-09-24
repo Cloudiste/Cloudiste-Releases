@@ -2,6 +2,12 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.62.2 — Recherche de jeux et navigation simplifiée](docs/historique/CLOUDISTE-0.62.2.md)
+- [Cloudiste 0.62.1 — Dock à six icônes](docs/historique/CLOUDISTE-0.62.1.md)
+- [Cloudiste 0.62.0 — Réglages simplifiés](docs/historique/CLOUDISTE-0.62.0.md)
+- [Cloudiste 0.61.0 — Dock et commandes contextuelles](docs/historique/CLOUDISTE-0.61.0.md)
+- [Cloudiste 0.60.0 — Cohérence UI et navigation manette](docs/historique/CLOUDISTE-0.60.0.md)
+- [Cloudiste 0.59.0 — Disponibilité des jeux](docs/historique/CLOUDISTE-0.59.0.md)
 - [Cloudiste 0.58.0 — Deux ambiances musicales](docs/historique/CLOUDISTE-0.58.0.md)
 - [Cloudiste 0.57.5 — Gestes indépendants du logo et du dock](docs/historique/CLOUDISTE-0.57.5.md)
 - [Cloudiste 0.57.3 — Retour à l’accueil de la 0.56.1](docs/historique/CLOUDISTE-0.57.3.md)

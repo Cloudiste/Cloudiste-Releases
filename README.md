@@ -6,7 +6,7 @@
 
 Cloudiste est un front-end Android pensé pour le cloud gaming, les jeux Android et les émulateurs. Il peut être utilisé comme une application classique ou comme launcher Android facultatif. Cette page distribue les versions bêta officielles avant leur disponibilité sur Google Play.
 
-**Version actuelle : 0.58.0.** La musique précédente est remplacée par **Interface Ambience** et **Infinite Digital Space**. Le morceau et son niveau sonore se choisissent dans Réglages, puis Apparence.
+**Version actuelle : 0.62.2.** Cette mise à jour ajoute la recherche de disponibilité des jeux, leurs jaquettes et les liens vers les boutiques, puis simplifie le Dock et les Réglages. La chaîne YouTube **@Cloudgamingfrance** est maintenant accessible directement depuis **Réglages > Aide et informations**.
 
 ## Documentation
 
@@ -48,7 +48,7 @@ Obtainium vérifiera les nouvelles Releases GitHub. Android pourra encore demand
 Chaque Release contient un fichier `.sha256`. Pour vérifier un APK sur macOS ou Linux :
 
 ```bash
-shasum -a 256 Cloudiste-0.58.0-release.apk
+shasum -a 256 Cloudiste-0.62.2-release.apk
 ```
 
 L’empreinte obtenue doit être identique à celle du fichier `.sha256` associé.

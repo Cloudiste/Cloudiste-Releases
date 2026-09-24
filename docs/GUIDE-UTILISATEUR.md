@@ -36,18 +36,13 @@ La suppression d’un raccourci ne désinstalle jamais l’application Android.
 
 La rubrique **Dossiers** permet de créer un dossier Jeux Android ou Émulateurs, puis d’y sélectionner les applications voulues. Un appui long ou **Y** sur le dossier ouvre sa personnalisation et sa composition. Supprimer un dossier ne désinstalle pas son contenu.
 
-## Organiser plusieurs tuiles
+## Rechercher la disponibilité d’un jeu
 
-Ouvre **Réglages > Accueil > Gérer l’accueil en groupe** pour sélectionner plusieurs tuiles. Tu peux ensuite :
+Ouvre la **loupe** au centre du Dock pour rechercher un jeu. Cloudiste indique sa disponibilité sur GeForce NOW, Xbox Cloud Gaming, Boosteroid et PlayStation Plus Premium selon les données du catalogue.
 
-- les affecter ensemble à une page d’accueil ;
-- déplacer leurs applications Android vers un dossier ;
-- copier la personnalisation visuelle de la première tuile personnalisée vers les autres ;
-- trier l’accueil par nom, type ou utilisation récente ;
-- choisir des tuiles petites, standard ou grandes ;
-- verrouiller l’organisation afin d’éviter un déplacement accidentel.
+La liste affiche les jaquettes lorsqu’elles sont disponibles. Dans la fiche d’un jeu, les boutiques compatibles sont directement sélectionnables pour ouvrir Steam, Epic Games Store, GOG, Ubisoft, EA, Battle.net ou Xbox dans leur application ou dans le navigateur externe. Xbox distingue les jeux inclus dans le Game Pass de ceux qui demandent de posséder le jeu.
 
-Les pages **Cloud**, **Android**, **Émulation** et **Multimédia** sont facultatives. Tant qu’aucune page n’est activée, l’accueil unique reste inchangé. Lorsqu’elles sont actives, touche leur nom ou utilise LB et RB pour passer de l’une à l’autre.
+Le catalogue est conservé sur l’appareil et reste consultable hors connexion après un premier téléchargement. Cloudiste le vérifie au maximum une fois toutes les 24 heures. Sa source et sa date de mise à jour sont indiquées dans l’interface.
 
 ## Personnaliser une tuile
 
@@ -84,3 +79,9 @@ Un pack de thème ne contient pas tes applications installées ou ajoutées manu
 ## Écran et accessibilité
 
 Les tailles Compacte, Normale et Grande adaptent les commandes et les tuiles. Les marges de sécurité TV éloignent les éléments interactifs des bords lorsqu’un écran externe est détecté.
+
+## Réglages et informations
+
+Les réglages sont regroupés dans six sections : **Accueil**, **Apparence**, **Écran et accessibilité**, **Manette**, **Système** et **Aide et informations**. Utilise la croix ou les sticks pour parcourir chaque section. LB et RB permettent aussi de passer rapidement d’une section à l’autre.
+
+Dans **Aide et informations**, le bouton **@Cloudgamingfrance** ouvre directement la chaîne YouTube dans l’application YouTube ou dans le navigateur externe.
