@@ -6,7 +6,7 @@
 
 Cloudiste est un front-end Android pensé pour le cloud gaming, les jeux Android et les émulateurs. Il peut être utilisé comme une application classique ou comme launcher Android facultatif. Cette page distribue les versions bêta officielles avant leur disponibilité sur Google Play.
 
-**Version actuelle : 0.68.1.** Cette mise à jour simplifie l’assistant en quatre étapes, ajoute un aperçu réel de l’accueil et maintient l’aperçu de la tuile visible pendant les réglages précis du cadrage et de la luminosité.
+**Version actuelle : 0.68.2.** Cette mise à jour simplifie l’assistant en quatre étapes, ajoute un aperçu réel de l’accueil et maintient l’aperçu de la tuile visible pendant les réglages précis du cadrage et de la luminosité.
 
 ## Documentation
 

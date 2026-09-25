@@ -92,3 +92,5 @@ Cette page retrace les versions de Cloudiste depuis la première base fonctionne
 - La 0.57.3 retire la gestion avancée de l’accueil de la 0.57 et reprend l’interface et les fonctions de la 0.56.1. Son code Android 82 permet une mise à jour directe depuis les versions 0.57 déjà installées.
 
 - [Cloudiste 0.68.1 — Consoles à deux écrans](docs/historique/CLOUDISTE-0.68.1.md)
+
+- [Cloudiste 0.68.2 — Boutiques Boosteroid](docs/historique/CLOUDISTE-0.68.2.md)
