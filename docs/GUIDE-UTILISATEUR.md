@@ -2,15 +2,12 @@
 
 ## Premier démarrage
 
-L’assistant propose successivement :
+L’assistant propose quatre étapes :
 
-1. la langue ;
-2. le thème Sombre, OLED ou Clair ;
-3. un profil adapté à l’écran ;
-4. les services détectés sur l’appareil ;
-5. le mode d’affichage de l’accueil ;
-6. la création facultative des dossiers Jeux Android et Émulateurs ;
-7. un aperçu avant validation.
+1. la langue et le thème Sombre, OLED ou Clair ;
+2. le profil d’écran et les services détectés sur l’appareil ;
+3. le mode d’affichage et la création facultative des dossiers Jeux Android et Émulateurs ;
+4. l’aperçu réel de l’accueil avant validation.
 
 L’assistant peut ensuite être relancé depuis **Réglages > Assistant de démarrage**.
 
@@ -53,6 +50,8 @@ Maintiens une tuile au doigt ou appuie sur **Y**. Le menu latéral propose, selo
 - le cadrage et la luminosité ;
 - les applications d’un dossier ;
 - la suppression d’un service ajouté manuellement.
+
+L’aperçu de la tuile reste visible pendant toute la personnalisation. Les curseurs de cadrage et de luminosité réagissent au toucher ainsi qu’aux directions gauche et droite d’une manette. Le fond plein écran et l’image de la tuile conservent leurs réglages indépendants.
 
 Les médias acceptés comprennent les images, les GIF animés et les vidéos compatibles. Les animations de logo propres aux services sont facultatives et désactivées par défaut.
 

@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.64.0 — Parcours simplifiés et aperçus réels](docs/historique/CLOUDISTE-0.64.0.md)
 - [Cloudiste 0.63.0 — Dossiers façon launcher](docs/historique/CLOUDISTE-0.63.0.md)
 - [Cloudiste 0.62.3 — Nouveaux logos animés](docs/historique/CLOUDISTE-0.62.3.md)
 - [Cloudiste 0.62.2 — Recherche de jeux et navigation simplifiée](docs/historique/CLOUDISTE-0.62.2.md)
