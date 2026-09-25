@@ -2,6 +2,7 @@
 
 Cette page retrace les versions de Cloudiste depuis la première base fonctionnelle. Les notes détaillées conservent le contexte, les nouveautés et les scénarios de test de chaque étape.
 
+- [Cloudiste 0.62.3 — Nouveaux logos animés](docs/historique/CLOUDISTE-0.62.3.md)
 - [Cloudiste 0.62.2 — Recherche de jeux et navigation simplifiée](docs/historique/CLOUDISTE-0.62.2.md)
 - [Cloudiste 0.62.1 — Dock à six icônes](docs/historique/CLOUDISTE-0.62.1.md)
 - [Cloudiste 0.62.0 — Réglages simplifiés](docs/historique/CLOUDISTE-0.62.0.md)
